@@ -12,5 +12,5 @@ I'm a
 
 Feel free to follow me on these platforms to get more information about me:
 
-<a href="https://discord.gg/K35PZSHbSU" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a> <a href="https://www.youtube.com/@RTX4090" target="_blank"><img align="center" alt="Youtube" src="https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=white" /></a> 
+<a href="https://discord.gg/K35PZSHbSU" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a> <a href="https://www.youtube.com/@imrtx_" target="_blank"><img align="center" alt="Youtube" src="https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=white" /></a> 
 
