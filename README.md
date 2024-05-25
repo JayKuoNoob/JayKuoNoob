@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtx4o9o&label=Profile%20views&color=0e75b6&style=flat" alt="rtx4o9o" /> </p>
 
-- 🔭 I’m currently working on [ESP32 DNS Hijack & Evil Twins](https://github.com/RTX4O9O/ESP32DNSHijack)
+- 🔭 I’m currently working on [Using Nano to Mine Servers](https://github.com/RTX4O9O/NanoMine)
 
 - 🌱 I’m currently learning **Java Swing, LLM, Python**
 
